@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/univ-olympus-system-master/cfp-usecase/cfp-usecase.iml" filepath="$PROJECT_DIR$/univ-olympus-system-master/cfp-usecase/cfp-usecase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/univ-olympus-system-master/core/core.iml" filepath="$PROJECT_DIR$/univ-olympus-system-master/core/core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/univ-olympus-system-master/front/front.iml" filepath="$PROJECT_DIR$/univ-olympus-system-master/front/front.iml" />
+      <module fileurl="file://$PROJECT_DIR$/univ-olympus-system-master/oidc-demo-idp/oidc-demo-idp.iml" filepath="$PROJECT_DIR$/univ-olympus-system-master/oidc-demo-idp/oidc-demo-idp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/univ-olympus-system-master/parent.iml" filepath="$PROJECT_DIR$/univ-olympus-system-master/parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/univ-olympus-system-master/rest-wrapper/rest-wrapper.iml" filepath="$PROJECT_DIR$/univ-olympus-system-master/rest-wrapper/rest-wrapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/univ-olympus-system-master.iml" filepath="$PROJECT_DIR$/.idea/univ-olympus-system-master.iml" />
+    </modules>
+  </component>
+</project>
