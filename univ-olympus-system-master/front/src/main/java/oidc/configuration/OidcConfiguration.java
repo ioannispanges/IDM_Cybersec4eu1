@@ -94,7 +94,7 @@ public class OidcConfiguration {
         PSPABCVerifier verifier = new PSPABCVerifier();
         verifier.setup(idps, seed);
         return client;
-    }
+  }
 
     /**
      * The policy used when authenticating a login request.
