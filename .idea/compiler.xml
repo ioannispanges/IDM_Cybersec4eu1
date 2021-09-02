@@ -8,9 +8,9 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="core" />
-        <module name="univ-server" />
         <module name="cfp-usecase" />
         <module name="rest-wrapper" />
+        <module name="uni-server" />
         <module name="univeristy-front" />
       </profile>
     </annotationProcessing>
@@ -19,7 +19,7 @@
       <module name="core" target="1.8" />
       <module name="parent" target="1.8" />
       <module name="rest-wrapper" target="1.8" />
-      <module name="univ-server" target="1.8" />
+      <module name="uni-server" target="1.8" />
       <module name="univeristy-front" target="1.8" />
     </bytecodeTargetLevel>
   </component>
