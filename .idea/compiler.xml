@@ -7,20 +7,20 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="oidc-demo-idp" />
         <module name="core" />
+        <module name="univ-server" />
         <module name="cfp-usecase" />
-        <module name="front" />
         <module name="rest-wrapper" />
+        <module name="univeristy-front" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="cfp-usecase" target="1.8" />
       <module name="core" target="1.8" />
-      <module name="front" target="1.8" />
-      <module name="oidc-demo-idp" target="1.8" />
       <module name="parent" target="1.8" />
       <module name="rest-wrapper" target="1.8" />
+      <module name="univ-server" target="1.8" />
+      <module name="univeristy-front" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

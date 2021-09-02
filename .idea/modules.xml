@@ -4,11 +4,11 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/univ-olympus-system-master/cfp-usecase/cfp-usecase.iml" filepath="$PROJECT_DIR$/univ-olympus-system-master/cfp-usecase/cfp-usecase.iml" />
       <module fileurl="file://$PROJECT_DIR$/univ-olympus-system-master/core/core.iml" filepath="$PROJECT_DIR$/univ-olympus-system-master/core/core.iml" />
-      <module fileurl="file://$PROJECT_DIR$/univ-olympus-system-master/front/front.iml" filepath="$PROJECT_DIR$/univ-olympus-system-master/front/front.iml" />
-      <module fileurl="file://$PROJECT_DIR$/univ-olympus-system-master/oidc-demo-idp/oidc-demo-idp.iml" filepath="$PROJECT_DIR$/univ-olympus-system-master/oidc-demo-idp/oidc-demo-idp.iml" />
       <module fileurl="file://$PROJECT_DIR$/univ-olympus-system-master/parent.iml" filepath="$PROJECT_DIR$/univ-olympus-system-master/parent.iml" />
       <module fileurl="file://$PROJECT_DIR$/univ-olympus-system-master/rest-wrapper/rest-wrapper.iml" filepath="$PROJECT_DIR$/univ-olympus-system-master/rest-wrapper/rest-wrapper.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/univ-olympus-system-master.iml" filepath="$PROJECT_DIR$/.idea/univ-olympus-system-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/univ-olympus-system-master/oidc-demo-idp/univ-server.iml" filepath="$PROJECT_DIR$/univ-olympus-system-master/oidc-demo-idp/univ-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/univ-olympus-system-master/front/univeristy-front.iml" filepath="$PROJECT_DIR$/univ-olympus-system-master/front/univeristy-front.iml" />
     </modules>
   </component>
 </project>
